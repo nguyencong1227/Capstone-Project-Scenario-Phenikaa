@@ -1,7 +1,19 @@
 Project charter: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-a-Project-Charter-and-Project-Brief/Develop-a-Project-Charter-and-Project-Brief.md.html?origin=www.coursera.org
+https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Project%20Charter.pdf
 
-Work Breakdown Structure (WBS):
+Project Brief: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-a-Project-Charter-and-Project-Brief/Develop-a-Project-Charter-and-Project-Brief.md.html?origin=www.coursera.org
 
+Stakeholder: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Develop-Stakeholder-Register.md.html?origin=www.coursera.org
+https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Project%20Brief.pdf
+
+--------
+Work Breakdown Structure (WBS):https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/WBS%20and%20Network%20Diagram%20Lab/WBS_Network_Diag.md.html?origin=www.coursera.org
+
+Network Diagram:https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/WBS%20and%20Network%20Diagram%20Lab/WBS_Network_Diag.md.html?origin=www.coursera.org
+
+Budget Planning: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Budget_Planning/Budget_Planning.md.html
+
+-----------
 Risk Register:
 
 Product Backlog:
