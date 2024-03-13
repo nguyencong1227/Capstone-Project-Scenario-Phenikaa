@@ -6,14 +6,16 @@ Project Brief: https://sk2280913.gitlab.io/Project-Management-Foundations-Initia
 Stakeholder: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Develop-Stakeholder-Register.md.html?origin=www.coursera.org
 https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Project%20Brief.pdf
 
---------
+----------------------
 Work Breakdown Structure (WBS):https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/WBS%20and%20Network%20Diagram%20Lab/WBS_Network_Diag.md.html?origin=www.coursera.org
 
 Network Diagram:https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/WBS%20and%20Network%20Diagram%20Lab/WBS_Network_Diag.md.html?origin=www.coursera.org
 
 Budget Planning: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Budget_Planning/Budget_Planning.md.html
 
------------
+Earned Value Management (EVM): https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Earned-Value-Management/Earned-Value-Management.md.html
+----------------------
+
 Risk Register:
 
 Product Backlog:
