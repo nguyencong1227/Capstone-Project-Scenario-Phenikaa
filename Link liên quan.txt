@@ -1,0 +1,11 @@
+Project charter: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-a-Project-Charter-and-Project-Brief/Develop-a-Project-Charter-and-Project-Brief.md.html?origin=www.coursera.org
+
+Work Breakdown Structure (WBS):
+
+Risk Register:
+
+Product Backlog:
+
+Status Report:
+
+Close-Out Report:
