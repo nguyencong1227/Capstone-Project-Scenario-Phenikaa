@@ -20,6 +20,12 @@ Risk Register:
 
 Product Backlog:
 
-Status Report:
+Status Report: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/labs/lab/module4/Status_Report_and_Change_Analysis.md.html?origin=www.coursera.org
 
-Close-Out Report:
+Project Status Report Template : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/Project%20Status%20Report%20Template.docx
+
+Project Status Report Potential Solution : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/Project%20Status%20Report%20Potential%20Solution.pdf
+
+Close-Out Report:https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/labs/lab/module4/Project_Close-Out_Report.md.html?origin=www.coursera.org
+
+Project Close-Out Report Template : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/Project%20Close%20Out%20Report%20Template.docx
