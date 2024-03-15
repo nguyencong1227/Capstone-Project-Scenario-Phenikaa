@@ -6,6 +6,9 @@ Project Brief: https://sk2280913.gitlab.io/Project-Management-Foundations-Initia
 Stakeholder: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Develop-Stakeholder-Register.md.html?origin=www.coursera.org
 https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Develop-Stakeholder-Register/Project%20Brief.pdf
 
+
+
+
 ----------------------
 Work Breakdown Structure (WBS):https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/WBS%20and%20Network%20Diagram%20Lab/WBS_Network_Diag.md.html?origin=www.coursera.org
 
@@ -14,19 +17,39 @@ Network Diagram:https://sk2280913.gitlab.io/Project-Management-Foundations-Initi
 Budget Planning: https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Budget_Planning/Budget_Planning.md.html
 
 Earned Value Management (EVM): https://sk2280913.gitlab.io/Project-Management-Foundations-Initiation-and-Planning/labs/Earned-Value-Management/Earned-Value-Management.md.html
-----------------------
 
+
+
+
+----------------------
 Risk Register:
 
+
+
+
+
+------------------------------------
 Product Backlog: 
 Assemble your Product Backlog: https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTS1DRDAxMTZFTi1Ta2lsbHNOZXR3b3JrL2xhYnMvbW9kdWxlXzIvbGFiXzMvbGFiMy1hc3NlbWJsZS1wcm9kdWN0LWJhY2tsb2cubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzAwNjcwOTMwfQ.r6iryqVCc6Vaj8lrjnbGfm3pDum8pg4IfNTsypWZ7vs
 Refine your Product Backlog: https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTS1DRDAxMTZFTi1Ta2lsbHNOZXR3b3JrL2xhYnMvbW9kdWxlXzIvbGFiXzMvbGFiMy1hc3NlbWJsZS1wcm9kdWN0LWJhY2tsb2cubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzAwNjcwOTMwfQ.r6iryqVCc6Vaj8lrjnbGfm3pDum8pg4IfNTsypWZ7vs
 Build the Sprint Plan from your Product Backlog: https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTS1DRDAxMTZFTi1Ta2lsbHNOZXR3b3JrL2xhYnMvbW9kdWxlXzIvbGFiXzUvbGFiNS1idWlsZC1hLXNwcmludC1wbGFuLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3MDkzM30.obI4aDm38yvhqujM1VdLtqi_Ud6UGfxdNQKDZeBGIuM
+
+
+
+
+
+--------------------
 Status Report: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/labs/lab/module4/Status_Report_and_Change_Analysis.md.html?origin=www.coursera.org
 
 Project Status Report Template : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/Project%20Status%20Report%20Template.docx
 
 Project Status Report Potential Solution : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/Project%20Status%20Report%20Potential%20Solution.pdf
+
+
+
+
+
+-------------------
 
 Close-Out Report:https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PRM321EN-Coursera/labs/lab/module4/Project_Close-Out_Report.md.html?origin=www.coursera.org
 
