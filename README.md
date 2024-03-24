@@ -2,8 +2,8 @@
 
 <div class="show-content user_content clearfix enhanced">
 
-  
-  
+<h3>Project name</h3>  
+  <B>Real-Time Market Insights App
 <h3>Introduction</h3>
 <p>This capstone project allows you to apply the project management knowledge and skills learned in the previous Project Management Professional Certificate (PC) courses. You can take a preparation test for the Certified Associate in Project Management (CAPM) at the end. We recommend that you complete all previous studies before beginning this.</p>
 <p>You will receive a real-world scenario and able to complete numerous hands-on activities. We will also provide templates and guidance to help you create a portfolio of artifacts to demonstrate your expertise and readiness for higher levels of responsibility in project management.</p>
